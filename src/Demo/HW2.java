@@ -12,8 +12,8 @@ public class HW2 {
 
 			int m = 67;
 			int d = 45;
-			int result = ( m + d);
-			System.out.println(result);
+			int result1= ( m + d);
+			System.out.println(result1);
 
 		}
 	}
