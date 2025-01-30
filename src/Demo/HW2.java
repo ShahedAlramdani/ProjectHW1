@@ -10,6 +10,11 @@ public class HW2 {
 			int result = (a + b);
 			System.out.println(result);
 
+			int m = 67;
+			int d = 45;
+			int result = ( m + d);
+			System.out.println(result);
+
 		}
 	}
 }
